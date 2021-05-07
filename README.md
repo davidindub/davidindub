@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David.
 - 🌍 I live in Dublin, Ireland.
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python & JavaScript
 - 📫 How to reach me @davidindub github & twitter
