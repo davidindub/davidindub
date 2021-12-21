@@ -1,4 +1,3 @@
 - 👋 Hi, I’m David.
 - 🌍 I live in Dublin, Ireland.
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning Python & JavaScript
+- 👀 I’m currently taking the Full Stack Software Developer course @ Code Institute
