@@ -3,12 +3,13 @@
  - 👋 Hi, I’m David. I'm an aspiring Web Developer.
 - 🌍 I live in Dublin, Ireland.
 
-- 👨‍🍳 I previously worked in the hospitality industry as a speciality coffee shop manager, and before that a chef until the pandemic upended my situation several times!
+- 👨‍🍳 I previously worked in the hospitality industry as a speciality coffee shop manager, and before that a chef until the pandemic upended my situation!
 - 🧑‍💻 I suddenly had time to explore my life long love of technology, and began to learn how to code, starting with Python and then onto HTML, CSS and JavaScript.
-- 👨‍💻 I’m currently taking the **Full Stack Software Developer** course @ Code Institute. You can find my projects here on my profile!
-- 🚅 I love to travel, especially by train! I spent 6 weeks solo travelling Japan by train in 2018 and can't wait to explore the world again as it opens up.
+- 👨‍💻 I’m currently taking the **Full Stack Software Developer** course @ Code Institute. [You can find my projects here on my profile!](https://github.com/stars/davidindub/lists/code-institute-projects)
+- 🚅 I love to travel, especially by train!
 - 🚴 During the summer I love to cycle the Greenways of Ireland.
-- 🌱 I try to live as sustainably for the environment as possible, and would love to apply tech to solutions for our climate crisis.
+- 🌱 I try to live as sustainably as possible, and would love to apply tech to solutions for our climate crisis.
+
 
 ## Languages Learned
 
