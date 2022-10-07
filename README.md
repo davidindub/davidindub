@@ -4,16 +4,15 @@
 - 🌍 I live in Dublin, Ireland.
 
 - 👨‍🍳 I previously worked in the hospitality industry as a speciality coffee shop manager, and before that a chef until the pandemic upended my situation!
-- 🧑‍💻 I suddenly had time to explore my life long love of technology, and began to learn how to code, starting with Python and then onto HTML, CSS and JavaScript.
-- 👨‍💻 I’m currently taking the **Full Stack Software Developer** course @ Code Institute. [You can find my projects here on my profile!](https://github.com/stars/davidindub/lists/code-institute-projects)
+- 🧑‍💻 Suddenly I had time to explore my life long love of technology, and began to learn how to code, starting with Python and then onto HTML, CSS and JavaScript.
+- 🖥️ Currently, I'm an Apprentice Software Engineer at Microsoft.
 - 🚅 I love to travel, especially by train!
-- 🚴 During the summer I love to cycle the Greenways of Ireland.
 - 🌱 I try to live as sustainably as possible, and would love to apply tech to solutions for our climate crisis.
 
 
 ## Languages Learned
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Kotlin](https://img.shields.io/badge/KOTLIN-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## Certifications
 
