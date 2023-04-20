@@ -4,8 +4,9 @@
 - 🌍 I live in Dublin, Ireland.
 
 - 👨‍🍳 I previously worked in the hospitality industry as a speciality coffee shop manager, and before that a chef until the pandemic upended my situation!
-- 🧑‍💻 Suddenly I had time to explore my life long love of technology, and began to learn how to code, starting with Python and then onto HTML, CSS and JavaScript.
-- 🖥️ Currently, I'm an Apprentice Software Engineer at Microsoft working on Android apps.
+- 🧑‍💻 Suddenly I had time to explore my life long love of technology, and began to learn how to code.
+- 🖥️ I received a Distinction grade in my Diploma in Full Stack Software Development from Code Institute.
+- 🤖 I took part in the first Microsoft Leap Apprenticeship program in Europe, where I worked with a team on Android applications.
 - 🚅 I love to travel, especially by train!
 - 🌱 I try to live as sustainably as possible, and would love to apply tech to solutions for our climate crisis.
 
