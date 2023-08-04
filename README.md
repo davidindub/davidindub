@@ -9,7 +9,8 @@
 - 🤖 I took part in the first Microsoft Leap Apprenticeship program in Europe, where I worked with a team on Android applications.
 - 🚅 I love to travel, especially by train!
 - 🌱 I try to live as sustainably as possible, and would love to apply tech to solutions for our climate crisis.
-
+- 🗾 私は「Sandford Language Institute」で日本語を勉強しています。
+- 🔣 I am currently studying UX Design at UX Design Institute.
 
 ## Languages Learned
 
