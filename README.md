@@ -7,6 +7,7 @@
 
 ## Certifications
 
+[![Microsoft Leap Software Engineer Pathway]([https://user-images.githubusercontent.com/69420622/159016249-be29daf9-1ee1-494b-a924-5b8934ce1191.png](https://github.com/user-attachments/assets/e66f3645-5241-40e8-87c2-4e712e9edbaa))](https://www.credly.com/badges/a9456a8c-3f53-42c5-bdd0-d4f38aeaf73f/public_url)
 [![Microsoft Certified AI Fundamentals Badge](https://user-images.githubusercontent.com/69420622/159016249-be29daf9-1ee1-494b-a924-5b8934ce1191.png)](https://www.credly.com/badges/5572f22c-cf64-4828-9f8b-1adc5b3281d4/public_url)[![MTA Introduction to Programming using JavaScript Badge](https://user-images.githubusercontent.com/69420622/159016851-e3b5ceae-83cb-4a11-8e7f-75610076b664.png)
 ](https://www.credly.com/badges/b4b36e5f-3443-42f9-80bb-1561cae84649/public_url)[![MTA Introduction to Programming using HTML & CSS](https://user-images.githubusercontent.com/69420622/159017079-d9f5fbcf-1667-4006-9d6c-21247634a916.png)
 ](https://www.credly.com/badges/9349926c-d8f8-40a4-b92e-39dd3749c2e9/public_url)
