@@ -10,8 +10,6 @@
 ](https://www.credly.com/badges/b4b36e5f-3443-42f9-80bb-1561cae84649/public_url)[![MTA Introduction to Programming using HTML & CSS](https://user-images.githubusercontent.com/69420622/159017079-d9f5fbcf-1667-4006-9d6c-21247634a916.png)
 ](https://www.credly.com/badges/9349926c-d8f8-40a4-b92e-39dd3749c2e9/public_url)
 
-[![](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72711637)](https://www.credential.net/6b5c5b3d-9b67-4ac7-9dbd-37d76a8707de#gs.wgn8v9)
-
 ## Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkellydublin/)
